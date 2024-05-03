@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\_Van_Van_\\source\\repos\\LABA_OOP3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE9B838-52E6-45FC-A929-C00B83467F1D}|LABA_OOP3\\LABA_OOP3.csproj|c:\\users\\_van_van_\\source\\repos\\laba_oop3\\laba_oop3\\controllers\\classroomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE9B838-52E6-45FC-A929-C00B83467F1D}|LABA_OOP3\\LABA_OOP3.csproj|solutionrelative:laba_oop3\\controllers\\classroomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE9B838-52E6-45FC-A929-C00B83467F1D}|LABA_OOP3\\LABA_OOP3.csproj|c:\\users\\_van_van_\\source\\repos\\laba_oop3\\laba_oop3\\models\\humantoclassroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE9B838-52E6-45FC-A929-C00B83467F1D}|LABA_OOP3\\LABA_OOP3.csproj|solutionrelative:laba_oop3\\models\\humantoclassroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE9B838-52E6-45FC-A929-C00B83467F1D}|LABA_OOP3\\LABA_OOP3.csproj|c:\\users\\_van_van_\\source\\repos\\laba_oop3\\laba_oop3\\models\\descktop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE9B838-52E6-45FC-A929-C00B83467F1D}|LABA_OOP3\\LABA_OOP3.csproj|solutionrelative:laba_oop3\\models\\descktop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE9B838-52E6-45FC-A929-C00B83467F1D}|LABA_OOP3\\LABA_OOP3.csproj|c:\\users\\_van_van_\\source\\repos\\laba_oop3\\laba_oop3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDE9B838-52E6-45FC-A929-C00B83467F1D}|LABA_OOP3\\LABA_OOP3.csproj|solutionrelative:laba_oop3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE9B838-52E6-45FC-A929-C00B83467F1D}|LABA_OOP3\\LABA_OOP3.csproj|c:\\users\\_van_van_\\source\\repos\\laba_oop3\\laba_oop3\\controllers\\humantoclassroomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE9B838-52E6-45FC-A929-C00B83467F1D}|LABA_OOP3\\LABA_OOP3.csproj|solutionrelative:laba_oop3\\controllers\\humantoclassroomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE9B838-52E6-45FC-A929-C00B83467F1D}|LABA_OOP3\\LABA_OOP3.csproj|c:\\users\\_van_van_\\source\\repos\\laba_oop3\\laba_oop3\\controllers\\descktopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE9B838-52E6-45FC-A929-C00B83467F1D}|LABA_OOP3\\LABA_OOP3.csproj|solutionrelative:laba_oop3\\controllers\\descktopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE9B838-52E6-45FC-A929-C00B83467F1D}|LABA_OOP3\\LABA_OOP3.csproj|c:\\users\\_van_van_\\source\\repos\\laba_oop3\\laba_oop3\\controllers\\humencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE9B838-52E6-45FC-A929-C00B83467F1D}|LABA_OOP3\\LABA_OOP3.csproj|solutionrelative:laba_oop3\\controllers\\humencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE9B838-52E6-45FC-A929-C00B83467F1D}|LABA_OOP3\\LABA_OOP3.csproj|c:\\users\\_van_van_\\source\\repos\\laba_oop3\\laba_oop3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE9B838-52E6-45FC-A929-C00B83467F1D}|LABA_OOP3\\LABA_OOP3.csproj|solutionrelative:laba_oop3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE9B838-52E6-45FC-A929-C00B83467F1D}|LABA_OOP3\\LABA_OOP3.csproj|c:\\users\\_van_van_\\source\\repos\\laba_oop3\\laba_oop3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDE9B838-52E6-45FC-A929-C00B83467F1D}|LABA_OOP3\\LABA_OOP3.csproj|solutionrelative:laba_oop3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE9B838-52E6-45FC-A929-C00B83467F1D}|LABA_OOP3\\LABA_OOP3.csproj|c:\\users\\_van_van_\\source\\repos\\laba_oop3\\laba_oop3\\data\\abd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE9B838-52E6-45FC-A929-C00B83467F1D}|LABA_OOP3\\LABA_OOP3.csproj|solutionrelative:laba_oop3\\data\\abd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE9B838-52E6-45FC-A929-C00B83467F1D}|LABA_OOP3\\LABA_OOP3.csproj|c:\\users\\_van_van_\\source\\repos\\laba_oop3\\laba_oop3\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE9B838-52E6-45FC-A929-C00B83467F1D}|LABA_OOP3\\LABA_OOP3.csproj|solutionrelative:laba_oop3\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE9B838-52E6-45FC-A929-C00B83467F1D}|LABA_OOP3\\LABA_OOP3.csproj|c:\\users\\_van_van_\\source\\repos\\laba_oop3\\laba_oop3\\models\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE9B838-52E6-45FC-A929-C00B83467F1D}|LABA_OOP3\\LABA_OOP3.csproj|solutionrelative:laba_oop3\\models\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HumanToClassroomsController.cs",
+              "DocumentMoniker": "C:\\Users\\_Van_Van_\\source\\repos\\LABA_OOP3\\LABA_OOP3\\Controllers\\HumanToClassroomsController.cs",
+              "RelativeDocumentMoniker": "LABA_OOP3\\Controllers\\HumanToClassroomsController.cs",
+              "ToolTip": "C:\\Users\\_Van_Van_\\source\\repos\\LABA_OOP3\\LABA_OOP3\\Controllers\\HumanToClassroomsController.cs",
+              "RelativeToolTip": "LABA_OOP3\\Controllers\\HumanToClassroomsController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:04:14.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DescktopsController.cs",
+              "DocumentMoniker": "C:\\Users\\_Van_Van_\\source\\repos\\LABA_OOP3\\LABA_OOP3\\Controllers\\DescktopsController.cs",
+              "RelativeDocumentMoniker": "LABA_OOP3\\Controllers\\DescktopsController.cs",
+              "ToolTip": "C:\\Users\\_Van_Van_\\source\\repos\\LABA_OOP3\\LABA_OOP3\\Controllers\\DescktopsController.cs",
+              "RelativeToolTip": "LABA_OOP3\\Controllers\\DescktopsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:03:33.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassroomsController.cs",
+              "DocumentMoniker": "C:\\Users\\_Van_Van_\\source\\repos\\LABA_OOP3\\LABA_OOP3\\Controllers\\ClassroomsController.cs",
+              "RelativeDocumentMoniker": "LABA_OOP3\\Controllers\\ClassroomsController.cs",
+              "ToolTip": "C:\\Users\\_Van_Van_\\source\\repos\\LABA_OOP3\\LABA_OOP3\\Controllers\\ClassroomsController.cs",
+              "RelativeToolTip": "LABA_OOP3\\Controllers\\ClassroomsController.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAuwCQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:02:39.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\_Van_Van_\\source\\repos\\LABA_OOP3\\LABA_OOP3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LABA_OOP3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\_Van_Van_\\source\\repos\\LABA_OOP3\\LABA_OOP3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LABA_OOP3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T08:01:06.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HumenController.cs",
+              "DocumentMoniker": "C:\\Users\\_Van_Van_\\source\\repos\\LABA_OOP3\\LABA_OOP3\\Controllers\\HumenController.cs",
+              "RelativeDocumentMoniker": "LABA_OOP3\\Controllers\\HumenController.cs",
+              "ToolTip": "C:\\Users\\_Van_Van_\\source\\repos\\LABA_OOP3\\LABA_OOP3\\Controllers\\HumenController.cs",
+              "RelativeToolTip": "LABA_OOP3\\Controllers\\HumenController.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:59:38.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Descktop.cs",
+              "DocumentMoniker": "C:\\Users\\_Van_Van_\\source\\repos\\LABA_OOP3\\LABA_OOP3\\Models\\Descktop.cs",
+              "RelativeDocumentMoniker": "LABA_OOP3\\Models\\Descktop.cs",
+              "ToolTip": "C:\\Users\\_Van_Van_\\source\\repos\\LABA_OOP3\\LABA_OOP3\\Models\\Descktop.cs",
+              "RelativeToolTip": "LABA_OOP3\\Models\\Descktop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:44:29.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HumanToClassroom.cs",
+              "DocumentMoniker": "C:\\Users\\_Van_Van_\\source\\repos\\LABA_OOP3\\LABA_OOP3\\Models\\HumanToClassroom.cs",
+              "RelativeDocumentMoniker": "LABA_OOP3\\Models\\HumanToClassroom.cs",
+              "ToolTip": "C:\\Users\\_Van_Van_\\source\\repos\\LABA_OOP3\\LABA_OOP3\\Models\\HumanToClassroom.cs",
+              "RelativeToolTip": "LABA_OOP3\\Models\\HumanToClassroom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:52:33.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\_Van_Van_\\source\\repos\\LABA_OOP3\\LABA_OOP3\\Program.cs",
+              "RelativeDocumentMoniker": "LABA_OOP3\\Program.cs",
+              "ToolTip": "C:\\Users\\_Van_Van_\\source\\repos\\LABA_OOP3\\LABA_OOP3\\Program.cs",
+              "RelativeToolTip": "LABA_OOP3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:57:51.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\_Van_Van_\\source\\repos\\LABA_OOP3\\LABA_OOP3\\appsettings.json",
+              "RelativeDocumentMoniker": "LABA_OOP3\\appsettings.json",
+              "ToolTip": "C:\\Users\\_Van_Van_\\source\\repos\\LABA_OOP3\\LABA_OOP3\\appsettings.json",
+              "RelativeToolTip": "LABA_OOP3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T07:58:37.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Human.cs",
+              "DocumentMoniker": "C:\\Users\\_Van_Van_\\source\\repos\\LABA_OOP3\\LABA_OOP3\\Models\\Human.cs",
+              "RelativeDocumentMoniker": "LABA_OOP3\\Models\\Human.cs",
+              "ToolTip": "C:\\Users\\_Van_Van_\\source\\repos\\LABA_OOP3\\LABA_OOP3\\Models\\Human.cs",
+              "RelativeToolTip": "LABA_OOP3\\Models\\Human.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:44:57.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Classroom.cs",
+              "DocumentMoniker": "C:\\Users\\_Van_Van_\\source\\repos\\LABA_OOP3\\LABA_OOP3\\Models\\Classroom.cs",
+              "RelativeDocumentMoniker": "LABA_OOP3\\Models\\Classroom.cs",
+              "ToolTip": "C:\\Users\\_Van_Van_\\source\\repos\\LABA_OOP3\\LABA_OOP3\\Models\\Classroom.cs",
+              "RelativeToolTip": "LABA_OOP3\\Models\\Classroom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:44:13.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Abd.cs",
+              "DocumentMoniker": "C:\\Users\\_Van_Van_\\source\\repos\\LABA_OOP3\\LABA_OOP3\\Data\\Abd.cs",
+              "RelativeDocumentMoniker": "LABA_OOP3\\Data\\Abd.cs",
+              "ToolTip": "C:\\Users\\_Van_Van_\\source\\repos\\LABA_OOP3\\LABA_OOP3\\Data\\Abd.cs",
+              "RelativeToolTip": "LABA_OOP3\\Data\\Abd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:41:44.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
