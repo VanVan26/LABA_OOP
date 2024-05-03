@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LABA2_OOP/1.0.0": {
+        "runtime": {
+          "LABA2_OOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LABA2_OOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

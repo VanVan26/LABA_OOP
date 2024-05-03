@@ -1,0 +1,14 @@
+C:\Users\_Van_Van_\source\repos\LABA2_OOP\LABA2_OOP\bin\Debug\net8.0\LABA2_OOP.exe
+C:\Users\_Van_Van_\source\repos\LABA2_OOP\LABA2_OOP\bin\Debug\net8.0\LABA2_OOP.deps.json
+C:\Users\_Van_Van_\source\repos\LABA2_OOP\LABA2_OOP\bin\Debug\net8.0\LABA2_OOP.runtimeconfig.json
+C:\Users\_Van_Van_\source\repos\LABA2_OOP\LABA2_OOP\bin\Debug\net8.0\LABA2_OOP.dll
+C:\Users\_Van_Van_\source\repos\LABA2_OOP\LABA2_OOP\bin\Debug\net8.0\LABA2_OOP.pdb
+C:\Users\_Van_Van_\source\repos\LABA2_OOP\LABA2_OOP\obj\Debug\net8.0\LABA2_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Van_Van_\source\repos\LABA2_OOP\LABA2_OOP\obj\Debug\net8.0\LABA2_OOP.AssemblyInfoInputs.cache
+C:\Users\_Van_Van_\source\repos\LABA2_OOP\LABA2_OOP\obj\Debug\net8.0\LABA2_OOP.AssemblyInfo.cs
+C:\Users\_Van_Van_\source\repos\LABA2_OOP\LABA2_OOP\obj\Debug\net8.0\LABA2_OOP.csproj.CoreCompileInputs.cache
+C:\Users\_Van_Van_\source\repos\LABA2_OOP\LABA2_OOP\obj\Debug\net8.0\LABA2_OOP.dll
+C:\Users\_Van_Van_\source\repos\LABA2_OOP\LABA2_OOP\obj\Debug\net8.0\refint\LABA2_OOP.dll
+C:\Users\_Van_Van_\source\repos\LABA2_OOP\LABA2_OOP\obj\Debug\net8.0\LABA2_OOP.pdb
+C:\Users\_Van_Van_\source\repos\LABA2_OOP\LABA2_OOP\obj\Debug\net8.0\LABA2_OOP.genruntimeconfig.cache
+C:\Users\_Van_Van_\source\repos\LABA2_OOP\LABA2_OOP\obj\Debug\net8.0\ref\LABA2_OOP.dll
